@@ -7,7 +7,7 @@ import select
 BOARD_LENGTH = 50
 OFFSET = 16
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
+BLACK = (55, 55, 55)
 RED = (255, 0, 0)
 BLUE = (0, 0, 255)
 
