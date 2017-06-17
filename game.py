@@ -4,7 +4,7 @@ import pygame
 import socket
 import select
 
-BOARD_LENGTH = 32
+BOARD_LENGTH = 48
 OFFSET = 16
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
